@@ -1,4 +1,4 @@
-// latin version
+//This is the latin version
 
 var students = [ 
   { 
@@ -20,7 +20,7 @@ var students = [
     points: '16375'
   },
   {
-    name: 'Jordania',
+    name: 'Marcelo',
     track: 'PHP Development',
     achievements: '55',
     points: '2025'
